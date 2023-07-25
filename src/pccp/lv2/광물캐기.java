@@ -2,6 +2,11 @@ package pccp.lv2;
 
 public class 광물캐기 {
 
+	
+	/**
+	 * 문제 이해 필요
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int[] picks = new int[] {1, 3, 2};
